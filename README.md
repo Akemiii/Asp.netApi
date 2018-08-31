@@ -1,2 +1,3 @@
 # Asp.netApi
-Back end core web api in asp.net mvc and front end in react.js
+Web app back end in asp.net mvc
+consuming web app with reactjs.net
